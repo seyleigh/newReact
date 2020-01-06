@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Meerkat",
+        "image": "../img/pic1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Seinfeld",
+        "image": "../img/pic2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tranny",
+        "image": "../img/pic3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ethnic Baby",
+        "image": "../img/pic4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cultivating Mass",
+        "image": "../img/pic5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dee",
+        "image": "../img/pic6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pure",
+        "image": "../img/pic7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bangin",
+        "image": "../img/pic8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Vampire",
+        "image": "../img/pic9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Troll Toll",
+        "image": "../img/pic10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Jersey Boi",
+        "image": "../img/pic11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Lethal Weapon",
+        "image": "../img/pic12.jpg"
+    }
+
+]
